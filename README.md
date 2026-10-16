@@ -30,79 +30,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global Business Intelligence (BI) software market is estimated at approximately **$30 billion to $35 billion** (growing at an 8%–11% CAGR toward ~$50+ billion by 2030). The market structure is **moderately fragmented overall but highly concentrated at the summit**, where tech conglomerates (Microsoft, Salesforce, Google) command the lion's share of enterprise budgets, while specialized and composable BI platforms compete dynamically in embedded analytics, AI agents, and semantic modeling.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Looker (Google Cloud)](https://looker.com/)**  
-
-  **Google Cloud's enterprise BI platform** built on **LookML**, a code-based semantic modeling language . **Git integration** for version control, **embedded analytics**, and **API-driven customization** . **The most developer-friendly semantic layer** in commercial BI.
-
-
-
-- **[Tableau](https://www.tableau.com/)**  
-
-  **The most widely adopted visual analytics platform** . **Tableau Cloud** and **Tableau Server** for hosted deployments. **Tableau Pulse** delivers AI-powered metrics insights in Slack, Teams, and email . **Tableau Agent** and **Tableau Semantics** bring AI-native analytics . **The gold standard for data visualization**.
-
-
-
-- **[Microsoft Power BI](https://powerbi.microsoft.com/)**  
-
-  **Microsoft's business analytics platform** integrated with Microsoft Fabric . **Power BI Desktop** for authoring, **Power BI Service** for sharing, **Copilot AI** assistance, and **Direct Lake mode** for querying OneLake without data import . **The most widely deployed BI tool** with deep Microsoft ecosystem integration.
-
-
-
-- **[Qlik Sense](https://www.qlik.com/)**  
-
-  **Associative analytics platform** with **Qlik Sense Enterprise**, **Qlik Cloud Analytics**, and **Qlik Analytics Platform** . Features **self-service visualization**, **guided analytics**, and **embedded analytics** with open APIs . **The associative engine** finds relationships across all data without predefined queries.
-
-
-
-- **[Domo](https://www.domo.com/)**  
-
-  **Cloud-native BI and data product platform** with **1,000+ connectors** . Features **Magic ETL** for data transformation, **App Catalyst** for pro-code apps, and **AI-driven workflows** integrated with Google Cloud Vertex AI . **The most end-to-end platform** from ETL to visualization.
-
-
-
-- **[Sisense](https://www.sisense.com/)**  
-
-  **BI and analytics platform for embedded analytics** . Features **ElastiCube** for in-memory data blending and **AI-powered predictive analytics** . **The most focused on embedded analytics** for product teams.
-
-
-
-- **[MicroStrategy](https://www.microstrategy.com/)**  
-
-  **Enterprise analytics platform** with **governed data discovery**, **enterprise reporting**, and **mobile analytics** . **The most mature enterprise BI platform** for large-scale deployments.
-
-
-
-- **[ThoughtSpot](https://www.thoughtspot.com/)**  
-
-  **Agentic analytics platform** with **Spotter AI agent** . Features **natural language search**, **embedded analytics via SDK/API/MCP**, and **unified structured and unstructured data analysis** . **The most AI-forward commercial BI platform** .
-
-
-
-- **[Looker Studio](https://lookerstudio.google.com/)**  
-
-  **Google's free BI platform** (formerly Google Data Studio) . Features **200+ connectors**, **real-time collaboration**, and **integration with Google Workspace** . **The most accessible free BI tool** .
-
-
-
-- **[GoodData](https://www.gooddata.com/)**  
-
-  **Composable analytics platform** with **Analytics Lake** infrastructure . Features **Apache Iceberg and DuckDB integration**, **FlexConnect** for custom data connectors, and **multi-tenant workspace isolation** .
-
-
+| Product | Company Revenue / Valuation | Starting Tier Pricing | Free Tier / Trial Limit | Key Focus & Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Power BI](https://powerbi.microsoft.com/)** | **$3.0T+** (Microsoft Market Cap; ~$245B+ revenue) | **$10/user/month** (Power BI Pro) or **$20/user/month** (Power BI Premium per user) | **Free forever tier**: Power BI Desktop is 100% free for individual local authoring/reporting (cloud sharing/collaboration requires paid license or 60-day free Pro trial) | Enterprise business analytics integrated with Microsoft Fabric, Copilot AI, and Direct Lake querying on OneLake. |
+| **[Looker (Google Cloud)](https://looker.com/)** | **$2.0T+** (Alphabet/Google Market Cap; ~$350B+ revenue) | **$5,000/month** (Looker Standard platform base, includes 10 standard & 2 developer users) | **Free trial**: 30-day guided evaluation / proof-of-concept trial via Google Cloud sales/credits (no perpetual free tier) | Cloud-native enterprise semantic modeling via LookML, Git version control, embedded analytics, and developer APIs. |
+| **[Looker Studio](https://lookerstudio.google.com/)** | **$2.0T+** (Alphabet/Google Market Cap; ~$350B+ revenue) | **$9/user/project/month** (Looker Studio Pro) | **Free forever tier**: Unlimited reports and dashboards with 200+ free native connectors (BigQuery, Google Sheets, GA4, etc.) | Lightweight, accessible self-service visual reporting and dashboarding integrated natively with Google Workspace. |
+| **[Tableau](https://www.tableau.com/)** | **$250B+** (Salesforce Market Cap; ~$38B revenue; acquired for $15.7B) | **$15/user/month** (Tableau Viewer) / **$42/user/month** (Explorer) / **$75/user/month** (Creator, billed annually) | **Free trial**: 14-day fully functional trial of Tableau Cloud/Desktop; **Free forever**: Tableau Public (10 GB storage, all work is publicly visible) | Premier data visualization platform featuring Tableau Pulse, Tableau Agent, and deep enterprise visual analytics. |
+| **[MicroStrategy](https://www.microstrategy.com/)** | **$45B+** (MicroStrategy Inc. Market Cap; ~$500M annual software revenue) | **~$13/user/month** (MicroStrategy ONE entry/Standard cloud reporting) | **Free trial**: 30-day evaluation trial with MicroStrategy Auto Express AI bots and cloud environments | Enterprise analytics with governed data discovery, semantic architecture, HyperIntelligence, and mobile reporting. |
+| **[ThoughtSpot](https://www.thoughtspot.com/)** | **$4.5B** (Valuation at latest funding round; ~$150M+ ARR) | **$95/month** (ThoughtSpot Essentials / Developer tier, includes 5 million query credits) | **Free trial**: 30-day free trial on cloud with full access to Search & Spotter AI agent | Search- and AI-driven agentic analytics platform powered by natural language, Spotter AI, and composable embedded SDKs. |
+| **[Qlik Sense](https://www.qlik.com/)** | **$3B+** (Private equity valuation / Thoma Bravo acquisition; ~$750M+ revenue) | **$825/month** (Standard Cloud package for up to 25 full users, billed annually) | **Free trial**: 30-day full-feature trial of Qlik Cloud Analytics with sample apps and connectors | Associative calculation engine uncovering hidden data relationships without predefined SQL, plus guided/embedded analytics. |
+| **[Sisense](https://www.sisense.com/)** | **$1.0B+** (Unicorn valuation; ~$150M ARR) | **~$830/month** (~$10,000/year base entry tier for small deployments/Compose SDK) | **Free trial**: 30-day fully functional trial for cloud and embedded Compose SDK | Developer-first embedded analytics platform featuring ElastiCube in-memory data modeling and AI-powered predictive metrics. |
+| **[Domo](https://www.domo.com/)** | **~$400M** (Public Market Cap / NASDAQ: DOMO; ~$320M annual revenue) | **$300/month** (Standard package with 30-day flex credit allotment) | **Free forever tier**: Free plan with up to 300 credits/month, full platform access, and 1,000+ connectors (or 30-day extended trial) | Cloud-native end-to-end data product platform with Magic ETL, pre-built app connectors, and workflow automation. |
+| **[GoodData](https://www.gooddata.com/)** | **~$250M** (Total venture funding raised; private valuation) | **$1,500/month** (Professional tier platform fee, includes unlimited users and data) | **Free trial**: 30-day full-feature trial of GoodData.AI cloud with embedded analytics and semantic layers | Composable analytics platform featuring Analytics Lake architecture, Apache Iceberg/DuckDB support, and multi-tenant isolation. |
 
 ## Open-Source GitHub Projects
 
