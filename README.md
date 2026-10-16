@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Business-Intelligence-BI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Intelligence-BI?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Intelligence-BI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Intelligence-BI?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Intelligence-BI/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Intelligence-BI?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Intelligence-BI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,7 +65,7 @@ The table below catalogs leading commercial SaaS BI platforms, ranked by **compa
 
 Open-source BI enables vendor independence, full data sovereignty, zero per-seat licensing penalties, and reproducible Git-based metric governance.
 
-All repositories below are strictly sorted by **GitHub Stars (descending)** with dynamic social star badges linking directly to each project's stargazers community.
+All repositories below are strictly sorted by **GitHub_Stars (descending)** with dynamic social Stars_Badges linking directly to each project's stargazers community.
 
 ### ⭐ Top Open-Source BI & Semantic Engines
 
